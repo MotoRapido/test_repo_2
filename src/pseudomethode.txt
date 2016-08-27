@@ -1,0 +1,59 @@
+Pseudocode – Beispiel: Primzahltest
+isPrime
+(
+z
+)
+Input:
+z
+?
+Output:
+true
+falls
+z
+eine Primzahl ist,
+false
+falls nicht
+if
+z
+= 1
+then
+return
+false
+endif
+k
+:= 2
+while
+k
+2
+<
+=
+z
+do
+if
+z
+ist durch
+k
+teilbar
+then
+return
+false
+endif
+k
+:=
+k
++ 1
+endwhile
+return
+true
+Pseudocode – Kopf
+functionName
+(
+parameters
+)
+Input:
+Beschreibung von
+parameters
+Output:
+Beschreibung eventueller R
+ ¨
+uckgabedaten
