@@ -1,1 +1,4 @@
-this is a string 
+this is a string
+
+and one more string
+and a third
