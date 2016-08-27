@@ -1,0 +1,12 @@
+program Name und Kurzbeschreibung
+   LiesDatenStruktur()
+   LiesDatenInhalt()
+    ...
+   if DatenUnvollständig then
+      FehlerMelden 
+      exit
+   end if
+   HauptstatistikBerechnen
+   ZusammenstellungBerechnen
+   Resultate in HTML-Datei schreiben
+end program Name
