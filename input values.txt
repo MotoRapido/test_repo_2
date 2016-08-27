@@ -1,7 +1,0 @@
-name
-address
-country
-state
-gender
-
-company
