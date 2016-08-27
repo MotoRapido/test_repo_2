@@ -2,7 +2,7 @@
 
 int my_strlen(char *s)
 {
-   char *p = s;
+   const char *p = s;
 
    while (*p)
       ++p;
@@ -16,7 +16,7 @@ int main(void)
    blob *s[] = 
    {
       "Git tutorials",	
-      "Moto learns git advanced useing mode"
+      "Moto learns git advanced useing mode; use constant char *p instead of p"
 			
    };
 
