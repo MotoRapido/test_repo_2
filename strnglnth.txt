@@ -12,11 +12,12 @@ int my_strlen(char *s)
 
 int main(void)
 {
-   int i;
-   char *s[] = 
+   double i;
+   blob *s[] = 
    {
-      "Git tutorials",
-      "Tutorials Point"
+      "Git tutorials",	
+      "Moto learns git advanced useing mode"
+			
    };
 
    for (i = 0; i < 2; ++i)

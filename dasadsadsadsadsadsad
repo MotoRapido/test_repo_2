@@ -1,0 +1,30 @@
+[33mcommit 3c066b80e6cc4467d3ad362f35a2364d30728972[m
+Author: motorapido <moto.rapido@yahoo.de>
+Date:   Sat Aug 27 13:09:33 2016 +0200
+
+    added a xml file to the project, xml.txt.txt
+
+[1mdiff --git a/xml.txt.txt b/xml.txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8732911[m
+[1m--- /dev/null[m
+[1m+++ b/xml.txt.txt[m
+[36m@@ -0,0 +1,18 @@[m
+[32m+[m[32m<SendMessageResponse>[m
+[32m+[m[32m    <SendMessageResult>[m
+[32m+[m[32m        <MD5OfMessageBody>[m
+[32m+[m[32m            fafb00f5732ab283681e124bf8747ed1[m
+[32m+[m[32m        </MD5OfMessageBody>[m
+[32m+[m[32m        <MD5OfMessageAttributes>[m
+[32m+[m	[32m    3ae8f24a165a8cedc005670c81a27295[m
+[32m+[m[32m        </MD5OfMessageAttributes>[m
+[32m+[m[32m        <MessageId>[m
+[32m+[m[32m            5fea7756-0ea4-451a-a703-a558b933e274[m
+[32m+[m[32m        </MessageId>[m
+[32m+[m[32m    </SendMessageResult>[m
+[32m+[m[32m    <ResponseMetadata>[m
+[32m+[m[32m        <RequestId>[m
+[32m+[m[32m            27daac76-34dd-47df-bd01-1f6e873584a0[m
+[32m+[m[32m        </RequestId>[m
+[32m+[m[32m    </ResponseMetadata>[m
+[32m+[m[32m</SendMessageResponse>[m

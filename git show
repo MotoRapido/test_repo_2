@@ -1,0 +1,33 @@
+[33mcommit 3c066b80e6cc4467d3ad362f35a2364d30728972[m
+Author: motorapido <moto.rapido@yahoo.de>
+Date:   Sat Aug 27 13:09:33 2016 +0200
+
+    added a xml file to the project, xml.txt.txt
+
+[33mcommit b653a8e772e8e77c053055b605406bb43e5de3fc[m
+Author: motorapido <moto.rapido@yahoo.de>
+Date:   Sat Aug 27 13:04:51 2016 +0200
+
+    sample file with strings
+    
+     enter the commit message for your changes. Lines starting
+    exit
+    qq
+
+[33mcommit af7ff934e59da227de2b9d109a7d88113008c9f0[m
+Author: motorapido <moto.rapido@yahoo.de>
+Date:   Sat Aug 27 13:03:29 2016 +0200
+
+    implemented strnglnth function
+
+[33mcommit 1b0d2737548506a2f753b1fd516237ce9474361a[m
+Author: motorapido <moto.rapido@yahoo.de>
+Date:   Sat Aug 27 11:34:09 2016 +0200
+
+    added readme file
+
+[33mcommit 7900c201ff9d094def8ccd97a74b8967f7563c0e[m
+Author: Konstantin Schels <konstantin.schels@yahoo.de>
+Date:   Sat Aug 27 11:25:44 2016 +0200
+
+    initial commit
